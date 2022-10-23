@@ -5,9 +5,9 @@ My personal record. The "hard way" means you should type in each file exactly, a
 - [x] ex1: A Good First Program
 - [x] ex2: Comments and Pound Characters
 - [x] ex3: Numbers and Math
-- [ ] ex4: Variables and Names
-- [ ] ex5: More Variables and Printing
-- [ ] ex6: Strings and Text
+- [x] ex4: Variables and Names
+- [x] ex5: More Variables and Printing
+- [x] ex6: Strings and Text
 - [ ] ex7: More Printing
 - [ ] ex8: Printing, Printing
 - [ ] ex9: Printing, Printing, Printing
