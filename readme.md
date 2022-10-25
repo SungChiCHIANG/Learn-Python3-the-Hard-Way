@@ -8,9 +8,9 @@ My personal record. The "hard way" means you should type in each file exactly, a
 - [x] ex4: Variables and Names
 - [x] ex5: More Variables and Printing
 - [x] ex6: Strings and Text
-- [ ] ex7: More Printing
-- [ ] ex8: Printing, Printing
-- [ ] ex9: Printing, Printing, Printing
+- [x] ex7: More Printing
+- [x] ex8: Printing, Printing
+- [x] ex9: Printing, Printing, Printing
 - [ ] ex10: What Was That?
 - [ ] ex11: Asking Questions
 - [ ] ex12: Prompting People
