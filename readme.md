@@ -11,9 +11,9 @@ My personal record. The "hard way" means you should type in each file exactly, a
 - [x] ex7: More Printing
 - [x] ex8: Printing, Printing
 - [x] ex9: Printing, Printing, Printing
-- [ ] ex10: What Was That?
-- [ ] ex11: Asking Questions
-- [ ] ex12: Prompting People
+- [x] ex10: What Was That?
+- [x] ex11: Asking Questions
+- [x] ex12: Prompting People
 - [ ] ex13: Parameters, Unpacking, Variables
 - [ ] ex14: Prompting and Passing
 - [ ] ex15: Reading Files
