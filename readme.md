@@ -20,9 +20,9 @@ My personal record. The "hard way" means you should type in each file exactly, a
 - [x] ex16: Reading and Writing Files
 - [x] ex17: More Files
 - [x] ex18: Names, Variables, Code, Functions
-- [ ] ex19: Functions and Variables
-- [ ] ex20: Functions and Files
-- [ ] ex21: Functions Can Return Something
+- [x] ex19: Functions and Variables
+- [x] ex20: Functions and Files
+- [x] ex21: Functions Can Return Something
 - [ ] ex22: What Do You Know So Far?
 - [ ] ex23: Strings, Bytes, and Character Encodings
 - [ ] ex24: More Practice
