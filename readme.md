@@ -17,9 +17,9 @@ My personal record. The "hard way" means you should type in each file exactly, a
 - [x] ex13: Parameters, Unpacking, Variables
 - [x] ex14: Prompting and Passing
 - [x] ex15: Reading Files
-- [ ] ex16: Reading and Writing Files
-- [ ] ex17: More Files
-- [ ] ex18: Names, Variables, Code, Functions
+- [x] ex16: Reading and Writing Files
+- [x] ex17: More Files
+- [x] ex18: Names, Variables, Code, Functions
 - [ ] ex19: Functions and Variables
 - [ ] ex20: Functions and Files
 - [ ] ex21: Functions Can Return Something
